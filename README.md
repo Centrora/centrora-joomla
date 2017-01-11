@@ -1,1 +1,1 @@
-# centrora-suite
+# centrora-joomla
